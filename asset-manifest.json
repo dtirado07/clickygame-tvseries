@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clickygame-tvseries/static/css/main.2cce8147.chunk.css",
+    "main.js": "/clickygame-tvseries/static/js/main.a81c3f39.chunk.js",
+    "main.js.map": "/clickygame-tvseries/static/js/main.a81c3f39.chunk.js.map",
+    "runtime~main.js": "/clickygame-tvseries/static/js/runtime~main.c55e592d.js",
+    "runtime~main.js.map": "/clickygame-tvseries/static/js/runtime~main.c55e592d.js.map",
+    "static/js/2.b41502e9.chunk.js": "/clickygame-tvseries/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/clickygame-tvseries/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/clickygame-tvseries/index.html",
+    "precache-manifest.1f3a16c4ceb21b744c2a48c74c2ac6ce.js": "/clickygame-tvseries/precache-manifest.1f3a16c4ceb21b744c2a48c74c2ac6ce.js",
+    "service-worker.js": "/clickygame-tvseries/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/clickygame-tvseries/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/clickygame-tvseries/static/media/logo.5d5d9eef.svg"
+  }
+}
