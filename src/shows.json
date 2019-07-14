@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "assets/images/blackmirror.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "assets/images/breakingbad.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "assets/images/casadepapel.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "assets/images/chernobyl.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "assets/images/friends.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "assets/images/got.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "assets/images/greysanatomy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "assets/images/lost.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "assets/images/narcos.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "assets/images/stranger.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "assets/images/suits.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "assets/images/vikings.jpg",
+        "clicked": false
+    }
+]
